@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.aps
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+Win32/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Local test data
+_smoke/
